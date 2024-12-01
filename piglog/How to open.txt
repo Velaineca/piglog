@@ -1,0 +1,9 @@
+//open project:
+npm install -g http-server
+
+cd dist/piglog/browser
+http-server
+
+//open database:
+npm install -g json-server
+json-server --watch db.json --port 3002
