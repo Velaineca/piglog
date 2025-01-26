@@ -1,0 +1,112 @@
+{
+  "animals": [
+    {
+      "id": "0",
+      "name": "Bigosława",
+      "breed": "American",
+      "markings": "Tricolour",
+      "sex": "female",
+      "photo": "/assets/img/animals/foto-bigi.webp",
+      "years": 0,
+      "months": 0,
+      "birthDate": {
+        "day": "12",
+        "month": "08",
+        "year": "2020"
+      },
+      "deathDate": {
+        "dead": true,
+        "day": "11",
+        "month": "10",
+        "year": "2024"
+      },
+      "underTreatment": false,
+      "neutered": false,
+      "registered": {
+        "isRegistered": false,
+        "acquiredFrom": "-",
+        "registrationNumber": "-",
+        "femaleName": "-",
+        "femaleBreed": "",
+        "femaleMarkings": "",
+        "femaleRegistration": "",
+        "maleName": "",
+        "maleBreed": "",
+        "maleMarkings": "",
+        "maleRegistration": ""
+      }
+    },
+    {
+      "id": "1",
+      "name": "Stanisława",
+      "breed": "Abyssinian",
+      "markings": "Tricolour",
+      "sex": "female",
+      "photo": "/assets/img/animals/foto-stasia.webp",
+      "years": 0,
+      "months": 0,
+      "birthDate": {
+        "day": "20",
+        "month": "07",
+        "year": "2023"
+      },
+      "deathDate": {
+        "dead": false,
+        "day": "00",
+        "month": "00",
+        "year": ""
+      },
+      "underTreatment": false,
+      "neutered": false,
+      "registered": {
+        "isRegistered": false,
+        "acquiredFrom": "",
+        "registrationNumber": "",
+        "femaleName": "",
+        "femaleBreed": "",
+        "femaleMarkings": "",
+        "femaleRegistration": "",
+        "maleName": "",
+        "maleBreed": "",
+        "maleMarkings": "",
+        "maleRegistration": ""
+      }
+    },
+    {
+      "id": "2",
+      "name": "Pyzosława",
+      "breed": "Silkie",
+      "markings": "Tricolour",
+      "sex": "female",
+      "photo": "/assets/img/animals/foto-pyzia.webp",
+      "years": 0,
+      "months": 0,
+      "birthDate": {
+        "day": "04",
+        "month": "09",
+        "year": "2024"
+      },
+      "deathDate": {
+        "dead": false,
+        "day": "00",
+        "month": "00",
+        "year": ""
+      },
+      "underTreatment": false,
+      "neutered": false,
+      "registered": {
+        "isRegistered": false,
+        "acquiredFrom": "",
+        "registrationNumber": "",
+        "femaleName": "",
+        "femaleBreed": "",
+        "femaleMarkings": "",
+        "femaleRegistration": "",
+        "maleName": "",
+        "maleBreed": "",
+        "maleMarkings": "",
+        "maleRegistration": ""
+      }
+    }
+  ]
+}
